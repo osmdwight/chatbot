@@ -1,0 +1,8 @@
+{
+  "responses": [
+    "Machine learning is a subset of artificial intelligence (AI) that develops algorithms to identify patterns, make predictions, or generate content by learning from data, rather than through explicit programming.",
+    "This is $0 mode — no API key needed. I'm responding from a local file.",
+    "Great question! In real mode, OpenAI would answer this. For now, here's a placeholder.",
+    "Mock mode active. Set the OPENAI_API_KEY environment variable to enable the real AI."
+  ]
+}
